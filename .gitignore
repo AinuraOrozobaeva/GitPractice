@@ -1,0 +1,9 @@
+/.idea/
+/*.iml
+/out/
+// if you share these files into github repositories you will have conflit,information is different
+in different people and so we need to prevent these,because of these we are not sending these files
+and making it private in  .gitignore file
+
+if you want to add one file inside the staging area
+1 right click on the file--> then click Git --then --> add on top
